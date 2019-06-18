@@ -1,0 +1,55 @@
+.section-heading 			        {width:50%; overflow:auto; border-bottom: #F08426 3px solid;margin-bottom:5px; margin-top:30px}
+.heading					{font-size:2.0em; color: #666633}
+.image-display 				        {style=float:center; width:130px; height:100px;}
+.heading-desc 				        {color: #996633;}
+.section-margin				        {margin-top: 20px;}
+.name						{width:50%; text-align:left; }
+.price						{width:15%; text-align:center;}
+.qty						{width:15%; text-align:center;}
+.name-h                                         {width:50%; color: #996633;}
+.price-h                                        {width:15%; text-align:center; color: #996633;}
+.qty-h	                                        {width:15%; text-align:center; color: #996633;}
+.add-btn					{background-color:#5F8E55;border:0; padding:3px 10px;color:#FFF; margin: 0 auto 14px 2px;}
+.item-desc					{color: #996600; font-style: italic; text-indent: 15px;}
+#cart						{background-color: #D3F5B8; font-size: 1.5em; margin-bottom:10px; border: 1px solid grey;} 
+.cart-sect                                      {background-color: #F1F1D7; margin: 15px auto 25px auto; }
+
+#empty                                          {margin-bottom: 20px;}
+#remove                                         {color: #D60202;}
+body                                            {background-image: url("images/bamboo.jpg");
+                                                 background-color: #FDFEDF;
+                                                 background-repeat: no-repeat;
+                                                 background-position: right center;
+                                                 background-attachment: fixed;}
+.page-margin                                    {margin: auto 15% auto 15%; background-color: #FDFEDF;}
+.navigation                                     {position: relative; width: 70%; height: 62px; line-height: 62px; margin: 0 auto 10px auto; }
+.navigation a              {text-decoration: none; font-size: 1.3em; color: #F08426; padding: 15px 10px 0 8px; font-style: italic; border-top: 3px solid #FDFEDF;}
+.logo                                            {position: relative; width: 70%;}
+.logo img                                        {position: relative; margin: 5px 35% 0 42%; width: 50%; height: 50%;} 
+.food                                            {position: relative; width: 70%;}
+.food img                                        {position: relative; margin: 0 35% 35px 50%; width: 40%; height: 45%; border: 10px solid #FDFEDF;}
+.banner                                          {background-color:#F1F1D7;}
+.content                                         {background-color: #F1F1D7; position: relative; margin: 0 auto 50px auto;}
+#form                                            {display: none; width: 50%;}
+.orderinfo                                       {background-color: #F1F1D7; width: 35%;}
+.orderinfo legend                                {border-bottom: 3px solid #996600; font-size: 1.2em;}
+.stat                                            {width: 60%; display: none;}
+.stat td                                         {padding: 0 30px 0 55px; text-align: center; border: 1px solid #F1F1D7; }
+.stat th                                         {padding: 0 30px 0 55px; text-align: center; background-color: #F1F1D7;}
+.stat table                                      {border: 1px solid #F1F1D7; border-collapse: collapse;}
+.stat legend                                     {font-size: 1.3em;}
+#enternum                                        {display: none;}
+h1                                               {text-align: center;}
+#fill-table                                      {width: 100%; margin: auto auto 30px auto;} 
+#fill-table th                                   {border: 1px solid black;  text-align: center; background-color: #FFCC99;} 
+#fill-table td                                   {text-align: center;}
+#showitemqty                                     {border-collapse: collapse; border: 1px solid black;}
+#showitemqty th                                  {border: 1px solid black; text-algin: center; background-color: #FFCC99; }
+#showitemqty td                                  {border: 1px solid black;text-align: left; padding: 0 20px 0 20px;}
+#orderdetails                                    {width: 40%;}
+#tbldiv                                          {margin: auto auto 50px auto;}
+#searchdetails                                   {display: none;}
+
+
+
+	

@@ -1,9 +1,9 @@
 <?php
 class DbHandler {
-	private $host = "localhost";
-	private $user = "root";
-	private $password = "hgoh4kdau";
-	private $database = "id1610724_phodb";
+	private $host = "localhost"; //using localhost - change your url if necessary
+	private $user = "your_usr";
+	private $password = "your_pw";
+	private $database = "your_db";
 	
 	
 	function __construct() {

@@ -11,7 +11,7 @@
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 --
--- Database: `a6948684_phodb`
+-- 
 --
 
 -- --------------------------------------------------------
@@ -19,7 +19,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 --
 -- Table structure for table `tblCustomer`
 --
-use id14204839_generaldb;
+-- use your_db;
 
 CREATE TABLE `tblCustomer` (
   `cust_phone` varchar(15) COLLATE latin1_general_ci NOT NULL,
